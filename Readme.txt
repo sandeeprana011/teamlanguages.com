@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Avilon
-Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Rana's Dick
+Theme URL: https://teamlanguages.com
+Author: Sandeep Rana
+Author URL: https://teamlanguages.com
